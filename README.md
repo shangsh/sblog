@@ -3,6 +3,10 @@ sblog
 
 An OTP application
 
+Deps
+----
+cowboy
+
 Build
 -----
 
